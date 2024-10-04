@@ -1,4 +1,3 @@
-Sure, here's a sample README file for your project:
 
 ---
 
